@@ -143,17 +143,16 @@ with:
 
 ```text
 random_state = 42
-
+```
 
 
 
 ## 📚 References
 
-- Quinlan, R. (1993). Auto MPG. UCI Machine Learning Repository.
+- Quinlan, R. (1993). *Auto MPG*. UCI Machine Learning Repository.
 - UCI Machine Learning Repository — Auto MPG Dataset
   https://doi.org/10.24432/C5859H
 
-
 ## 👤 Author
 
-### Advik Bhat
+**Advik Bhat**
